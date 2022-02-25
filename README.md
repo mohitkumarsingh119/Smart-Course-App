@@ -20,7 +20,7 @@ It will be best compatible with `Flutter 1.22` version.
 Open CMD where you want to clone the project & run the following commands
 
 ```
-git clone https://github.com/Almostsagar/Course-app.git
+git clone https://github.com/mohitkumarsingh119/Course-app.git
 cd Course-app
 flutter packages get
 flutter run
